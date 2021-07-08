@@ -11,3 +11,5 @@ This is code
 ```ruby
 print 'hello world'
 ```
+
+![](C:\Users\ryujc\Desktop\sf n.jpg)
