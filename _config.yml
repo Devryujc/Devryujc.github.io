@@ -21,7 +21,7 @@
 title: Ryu
 email: ryujc@kaist.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  ryu's note
+  ryu's journal
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ryujc.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ryujc
